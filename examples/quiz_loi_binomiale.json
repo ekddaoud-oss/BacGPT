@@ -1,0 +1,57 @@
+[
+  {
+    "question": "Quels sont les deux paramètres de la loi binomiale ?",
+    "options": [
+      "n et p",
+      "k et p",
+      "n et k",
+      "p et q"
+    ],
+    "correct": "A",
+    "explanation": "Les paramètres de la loi binomiale sont le nombre d'essais n et la probabilité de succès p."
+  },
+  {
+    "question": "Quelle est la formule de la fonction de probabilité d'une loi binomiale ?",
+    "options": [
+      "P(X = k) = n! / (k!(n-k)!)",
+      "P(X = k) = n * p^k",
+      "P(X = k) = C(n, k) * p^k * (1-p)^(n-k)",
+      "P(X = k) = p^k * (1-p)^n"
+    ],
+    "correct": "C",
+    "explanation": "La fonction de probabilité est donnée par C(n, k) * p^k * (1-p)^(n-k)."
+  },
+  {
+    "question": "Quel est l'objectif principal de la loi binomiale ?",
+    "options": [
+      "Modéliser des événements continus",
+      "Modéliser le nombre de succès dans des essais indépendants",
+      "Calculer des moyennes",
+      "Évaluer des variances"
+    ],
+    "correct": "B",
+    "explanation": "La loi binomiale modélise le nombre de succès dans une série d'essais indépendants."
+  },
+  {
+    "question": "Quelle est l'espérance d'une variable aléatoire suivant une loi binomiale ?",
+    "options": [
+      "n",
+      "p",
+      "n * p",
+      "n + p"
+    ],
+    "correct": "C",
+    "explanation": "L'espérance d'une variable aléatoire suivant une loi binomiale est n * p."
+  },
+  {
+    "question": "Dans quel domaine la loi binomiale est-elle couramment utilisée ?",
+    "options": [
+      "Analyse de données continues",
+      "Jeux de hasard",
+      "Études de régression",
+      "Analyse de séries temporelles"
+    ],
+    "correct": "B",
+    "explanation": "La loi binomiale est souvent utilisée dans les jeux de hasard pour modéliser des résultats."
+  }
+]
